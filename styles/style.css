@@ -1,0 +1,38 @@
+
+body {
+  background-color: blanchedalmond;
+}
+
+header {
+  background-color: #626694;
+  color: #d1b941;
+  padding: 15px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 28pt;
+}
+
+main{
+  margin: 25px;
+}
+
+p {
+  margin: 10px 0px;
+  /*sick shorthand: margin is TOP 10px, RIGHT 0px, BOTTOM 10px, LEFT 0px */
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20pxl;
+  margin-bottom: 8px;
+}
+
+footer {
+  background-color: #b37940;
+  color: #452708;
+  text-align: center;
+  font-size: 16pt;
+  padding: 10px;
+}
