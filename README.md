@@ -1,15 +1,10 @@
-# Template README
+# LAB - 02
 
-Use the following markdown as a starting point for each project's `README.md` file.
+## Project About Me
 
-```markdown
-# LAB - Number
+Bare bones website about me. This website should become more aesthetically pleasing, user-friendly, and interactive as I learn new developer skills.
 
-## Project Name
-
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
-
-### Author: Student/Group Name
+### Author: Johnny Backus
 
 ### Links and Resources
 
@@ -18,7 +13,7 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Lighthouse Accessibility Report Score
 
-* Provide a screenshot of your score after running a Lighthouse Accessibility report.
+![Lighthouse Accessibility Report Score](<Screenshot 2023-10-24 at 4.49.24 PM.png>)
 
 ### Reflections and Comments
 
