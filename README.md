@@ -1,8 +1,9 @@
-# LAB - 02
+# LAB - 03
 
 ## Project About Me
 
 Bare bones website about me. This website should become more aesthetically pleasing, user-friendly, and interactive as I learn new developer skills.
+On 10/24 added an image and some lists. Created more user prompts.
 
 ### Author: Johnny Backus
 
@@ -13,9 +14,8 @@ Bare bones website about me. This website should become more aesthetically pleas
 
 ### Lighthouse Accessibility Report Score
 
-![Lighthouse Accessibility Report Score](<Screenshot 2023-10-24 at 4.49.24 PM.png>)
+![Lighthouse Accessibility Report Score 10-25](LighthouseScore10-25.png)
 
 ### Reflections and Comments
 
-* Consider including the answers to your daily journal and submission questions here
-* This is also a good place to reflect on the tools and resources used and learned
+It ain't easy. I'm keen to keep learning tricks to get faster at some of the more tedious stuff to save time. Used the option + up/down arrow key shortcut today to move lines of code around a couple times.
