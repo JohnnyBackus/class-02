@@ -1,3 +1,4 @@
+"use strict";
 
 let userName = prompt('Hello there, and welcome to my website! Before we load this page, we\'re going to play a little game of two truths and a lie... or in this case, three truths and two lies... or maybe just five lies... we shall see!). But first, please tell me your name.');
 console.log(userName);
