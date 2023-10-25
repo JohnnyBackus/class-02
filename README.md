@@ -3,7 +3,7 @@
 ## Project About Me
 
 Bare bones website about me. This website should become more aesthetically pleasing, user-friendly, and interactive as I learn new developer skills.
-On 10/24 added an image and some lists. Created more user prompts.
+On 10/25 added an image and some lists. Created more user prompts.
 
 ### Author: Johnny Backus
 
