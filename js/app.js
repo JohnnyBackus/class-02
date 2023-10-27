@@ -129,7 +129,7 @@ function rainbow() {
   const rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
   let rainbowGuess = prompt(`What's my favorite color of the rainbow? You get six guesses.The colors of the rainbow are ${rainbow}.`);
 
-  for (let i = 0; i < 6; i++) {
+  for (let i = 0; i < 4; i++) {
     if (rainbowGuess === 'yellow') {
       console.log('You got it! There ain\'t nothin\' mellow about yellow!');
       alert('You got it! There ain\'t nothin\' mellow about yellow!');
@@ -139,6 +139,14 @@ function rainbow() {
       console.log(`Sorry, but that is incorrect. Guess again! The colors of the rainbow are ${rainbow}.`);
       rainbowGuess = prompt(`Sorry, but that is incorrect. Guess again! The colors of the rainbow are ${rainbow}.`);
     }
+  }
+  if (rainbowGuess === 'yellow') {
+    console.log('You got it! There ain\'t nothin\' mellow about yellow!');
+    alert('You got it! There ain\'t nothin\' mellow about yellow!');
+    console.log(correctGuesses++);
+  } else {
+    console.log('Hate to tell you this, but that was your last guess. My favorite color is yellow!');
+    alert('Hate to tell you this, but that was your last guess. My favorite color is yellow!');
   }
 }
 
