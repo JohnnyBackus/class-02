@@ -102,7 +102,7 @@ function number() {
     alert('Hey mind reader, you got it! The number was 72!');
     console.log(correctGuesses++);
   } else {
-    alert('Close! The number was 72.');
+    alert('You were getting pretty close! The number was 72.');
   }
 }
 
